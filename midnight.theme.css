@@ -1,16 +1,3 @@
-/**
- * @name ! Theme Discord Midnight
- * @author Felix
- * @description Theme được mod lại từ Theme gốc của @refact0r (Chỉ sử dụng được theme tối).
- * @version 1.5.0
- * @source https://github.com/refact0r/midnight-discord
- * @authorId 508863359777505290
-*/
-
-
-																	/* THAY ĐỔI STATUS */
-@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
-
 :root {
 	/* amount of spacing and padding */
 	--spacing: 12px;
